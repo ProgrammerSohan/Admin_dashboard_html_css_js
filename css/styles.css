@@ -37,6 +37,9 @@ body{
 
 }
 
+.menu-icon{
+    display: none;
+}
 
 /********sidebar**********/
 #sidebar{
